@@ -62,6 +62,9 @@ Rename the column **MiddleName** to **Initial** in the Users table, changing its
 
 *(Add your query to the file exercise12.sql)*
 
+
+
+//Stopped here for the time being
 Rename the column **FirstName** to **First_Name** and **LastName** to **Last_Name** in the **Users** table, in one statement, maintaining their original settings.
 
 *(Add your query to the file exercise13.sql)*
