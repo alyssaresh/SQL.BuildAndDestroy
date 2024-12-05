@@ -105,10 +105,6 @@ Update the **City** column of all records in the **Students** table and set it t
 
 *(Add your query to the file exercise17.sql)*
 
-
-
-
-//stopped here
 Update the **City** value and the **Country** value to "Edinburgh", "Scotland" in the **Students** table, for the Student whose ID is *35*.
 
 *(Add your query to the file exercise18.sql)*
